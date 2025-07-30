@@ -15,3 +15,7 @@
 
 ## 검색 기능 추가
 - search function
+
+# 사이드바 기능
+sidebar function.
+
