@@ -1,1 +1,2 @@
 - mbti : istp
+- 혈액형 : AB 형
